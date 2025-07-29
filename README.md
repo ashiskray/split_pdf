@@ -7,7 +7,7 @@ This script split pdf files
 
 ## Extra info
 
-Give the page no. in in for loop range 
+Give the page no. in [ for loop range()] 
 
 
 ### Output will be saved as new file split_output.pdf in split pdf
